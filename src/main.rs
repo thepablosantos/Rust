@@ -7,5 +7,7 @@ fn main() {
 
     let user_1: &str = "First User";
 
+    let var_with_a_big_name: &str = "Variavel";
+
     println!("{}", greet);
 }
