@@ -1,7 +1,6 @@
 fn main() {
 
-    let mut idade: i31 = 32;
-    idade = 31;
+    let texto: &str = "Hello, Pablo!";
 
-    println!();
+    println!("{}", texto);
 }
