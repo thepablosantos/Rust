@@ -1,3 +1,7 @@
 fn main() {
-    println!("Hello, John Titor!");
+
+    let mut idade: i31 = 32;
+    idade = 31;
+
+    println!();
 }
