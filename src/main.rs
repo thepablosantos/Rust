@@ -1,6 +1,6 @@
 fn main() {
 
-    let texto: &str = "Hello, Pablo!";
+    let greet: &str = "Hello, Pablo!";
 
-    println!("{}", texto);
+    println!("{}", greet);
 }
