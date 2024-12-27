@@ -15,4 +15,4 @@ fn main() {
     println!("Dollar price: ${}\nEuro price: €{}", dolar_price, euro_price);
     println!("User: {}\nBig name variable: {}", user_1, var_with_a_big_name);
     println!("Tuple: {:?}", x);
-}
+} //
