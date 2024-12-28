@@ -1,9 +1,10 @@
 fn main() {
-    let name: &str = "Pablo";
+    let age: i32 = 26;
+    let football: &str = "Gremio";
 
-    if name == "Pablo" {
-        println!("Pode comprar");
+    if age >= 18 || football == "Inter" {
+        println!("Salve");
     } else {
-        println!("Não pode comprar");
+        print!("...");
     }
 }
