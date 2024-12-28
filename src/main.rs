@@ -1,7 +1,9 @@
-let name: &str = "Pablo";
+fn main() {
+    let name: &str = "Pablo";
 
-if name == "Pablo" {
-    println!("Pode comprar");
-} else {
-    println!("Não pode comprar");
+    if name == "Pablo" {
+        println!("Pode comprar");
+    } else {
+        println!("Não pode comprar");
+    }
 }
